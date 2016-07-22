@@ -1,0 +1,6 @@
+Description:
+    Install diningcar's files
+
+Example:
+    rails generate diningcar:install
+

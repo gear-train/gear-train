@@ -1,0 +1,27 @@
+{
+  "name": "Name",
+  "description": "Description",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "^2.0.0",
+    "clean-css-brunch": "^2.0.0",
+    "css-brunch": "^2.0.0",
+    "hash-brunch": "github:diningcar/hash-brunch",
+    "javascript-brunch": "^2.0.0",
+    "uglify-js-brunch": "^2.0.0",
+    "pushserve": "^1.0.2",
+    "sass-brunch": "^2.6.3"
+  },
+  "license": "ISC",
+  "dependencies": {
+  }
+}
