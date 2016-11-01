@@ -1,6 +1,6 @@
 require "geartrain/helper"
 
-module Diningcar
+module Geartrain
   class Railtie < Rails::Railtie
     initializer "geartrain.helper" do
       ActionView::Base.send :include, Helper

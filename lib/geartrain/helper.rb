@@ -1,9 +1,9 @@
 require "geartrain/manifest"
 
-module Diningcar
+module Geartrain
   module Helper
     def manifest
-      @manifest ||= Diningcar::Manifest.new(Rails.root.join('public', MANIFEST_PATH))
+      @manifest ||= Geartrain::Manifest.new(Rails.root.join('public', MANIFEST_PATH))
     end
 
     def compute_asset_path(source, options = {})

@@ -5,7 +5,7 @@ require 'geartrain/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "geartrain"
-  spec.version       = Diningcar::VERSION
+  spec.version       = Geartrain::VERSION
   spec.authors       = ["Mateo Murphy"]
   spec.email         = ["mateo.murphy@gmail.com"]
 
