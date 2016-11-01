@@ -1,5 +1,7 @@
 # Geartrain
 
+> Modern asset pipelines for rails
+
 Geartrain is a drop-in replacement for Sprockets that adds a [Brunch](http://brunch.io) based asset pipeline to your Rails projects.
 
 ## Installation
