@@ -27,7 +27,7 @@ Once that's done, you can install geartrain using:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/gear-train/geartrain.
+Bug reports and pull requests are welcome on GitHub at https://github.com/gear-train/gear-train.
 
 
 ## License
