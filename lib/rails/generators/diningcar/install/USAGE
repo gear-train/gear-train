@@ -1,6 +1,6 @@
 Description:
-    Install diningcar's files
+    Install geartrain's files
 
 Example:
-    rails generate diningcar:install
+    rails generate geartrain:install
 

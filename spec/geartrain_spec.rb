@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe Diningcar do
+describe Geartrain do
   it 'has a version number' do
-    expect(Diningcar::VERSION).not_to be nil
+    expect(Geartrain::VERSION).not_to be nil
   end
 
   it 'does something useful' do

@@ -1,4 +1,4 @@
-require "diningcar/manifest"
+require "geartrain/manifest"
 
 module Diningcar
   module Helper

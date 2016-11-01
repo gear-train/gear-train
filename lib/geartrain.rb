@@ -1,5 +1,5 @@
-require "diningcar/version"
-require 'diningcar/railtie' if defined?(Rails)
+require "geartrain/version"
+require 'geartrain/railtie' if defined?(Rails)
 
 module Diningcar
   MANIFEST_PATH = 'assets/manifest.json'

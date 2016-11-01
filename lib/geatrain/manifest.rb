@@ -1,4 +1,4 @@
-module Diningcar
+module Geartrain
   class Manifest
     def initialize(path)
       @path = path
